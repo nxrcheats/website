@@ -3,18 +3,18 @@
     "id": "csharp",
     "title": "C# IMGUI Framework",
     "image": "https://placehold.co/600x400/000/fff?text=C-Sharp+IMGUI",
-    "description": "আমাদের C# ভিত্তিক IMGUI ফ্রেমওয়ার্কগুলো অত্যন্ত ফাস্ট এবং উইন্ডোজ অ্যাপ্লিকেশনের জন্য পারফেক্ট।"
+    "description": ""
   },
   {
     "id": "cpp",
     "title": "C++ Native IMGUI",
     "image": "https://placehold.co/600x400/000/fff?text=C-Plus-Plus+IMGUI",
-    "description": "সর্বোচ্চ পারফরম্যান্স এবং গেম মোডিংয়ের জন্য আমাদের C++ নেটিভ মেনুগুলো ব্যবহার করে দেখুন।"
+    "description": ""
   },
   {
     "id": "python",
     "title": "Python Modern UI",
     "image": "https://placehold.co/600x400/000/fff?text=Python+IMGUI",
-    "description": "সহজ কোডিং এবং মডার্ন ইন্টারফেসের জন্য পাইথন ভিত্তিক প্রজেক্টগুলো এখানে পাবেন।"
+    "description": ""
   }
 ]
