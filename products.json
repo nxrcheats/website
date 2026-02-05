@@ -5,10 +5,10 @@
     "description": "Ultra responsive 12000 DPI sensor with RGB.",
     "price": "$45.00",
     "promoCode": "GAMER20",
-    "mainImage": "https://github.com/nxrcheats/website-item/blob/main/image11.png",
+    "mainImage": "https://raw.githubusercontent.com/nxrcheats/website-item/main/image11.png",
     "galleryImages": [
-      "https://github.com/nxrcheats/website-item/blob/main/imag11e.png",
-      "https://github.com/nxrcheats/website-item/blob/main/imag11e.png"
+      "https://raw.githubusercontent.com/nxrcheats/website-item/main/image11.png",
+      "https://raw.githubusercontent.com/nxrcheats/website-item/main/image11.png"
     ],
     "downloadLink": "https://github.com/..."
   }
