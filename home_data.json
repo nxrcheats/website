@@ -16,5 +16,11 @@
     "title": "Python Modern UI",
     "image": "https://placehold.co/600x400/000/fff?text=Python+IMGUI",
     "description": ""
+  },
+  {
+    "id": "internal",
+    "title": "Internal Modern UI",
+    "image": "https://placehold.co/600x400/000/fff?text=Python+IMGUI",
+    "description": ""
   }
 ]
